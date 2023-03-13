@@ -12,4 +12,4 @@
  - https://medium.com/@bharadwaj9674/exploratory-data-analysis-3-statistical-tests-cd06e3d52296
  
 #### Distributions
- - 
+ - https://medium.com/@bharadwaj9674/exploratory-data-analysis-4-distributions-35263929026a
