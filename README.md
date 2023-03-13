@@ -9,7 +9,7 @@
  - https://medium.com/@bharadwaj9674/exploratory-data-analysis-2-correlation-f47715f84022
  
 #### Statistical Tests
- - 
+ - https://medium.com/@bharadwaj9674/exploratory-data-analysis-3-statistical-tests-cd06e3d52296
  
 #### Distributions
  - 
