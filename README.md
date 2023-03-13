@@ -1,4 +1,5 @@
-# machine-learning
+# Machine Learning
 
---> Exploratory Data Analysis
-  &emsp--> Outliers - 
+## Exploratory Data Analysis
+ 
+  --> Outliers - 
